@@ -1,0 +1,37 @@
+{
+  "name": "pluck-tag",
+  "version": "1.0.0",
+  "description": "Extract content between XML-style tags from LLM outputs",
+  "main": "pluck-tag.js",
+  "bin": {
+    "pluck-tag": "./pluck-tag.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "llm",
+    "xml",
+    "tag",
+    "extract",
+    "parse",
+    "cli",
+    "cli-tool",
+    "response",
+    "pluck",
+    "pipe",
+    "stdin",
+    "extraction",
+    "parser"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashafovaloff/pluck-tag.git"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "preferGlobal": true
+}
